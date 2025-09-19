@@ -1,4 +1,4 @@
-# Fashion Website 👗✨
+# Fashion ECommerce Website 👗✨
 
 This is a **static website** project built with **HTML, CSS, Bootstrap, and JavaScript**.  
 Currently, it serves as the front-end layout for a fashion-related platform.
