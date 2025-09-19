@@ -17,8 +17,15 @@ In future updates, this project will integrate:
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+### 🏠 Home Page
+![Home Page](img/screenshot/home.png)
 
-### About Page
-![About Page](screenshots/about.png)
+### 👕 Topwear Page
+![Topwear Page](img/screenshot/topwear.png)
+
+### 📦 My Profile Page
+![My Profile Page](img/screenshot/myprofile.png)
+
+### 🛒 Bag Page
+![Bag Page](img/screenshot/bag.png)
+
